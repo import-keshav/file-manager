@@ -2,7 +2,6 @@
 #chitrank mishra
 # file manager code
 # i have used os module here
-#tghjkl,;.
 import os
 #hii this is certainly a very good project to work on
 # i had written this code in lucid manner easy to understand
@@ -48,7 +47,7 @@ def new_file_fun():
 	Head.folders.append(y)
 	print("your file has succesfully added")
 	return
-
+# delete function for file deletion
 def delete_file_fun():
 
 	print("Enter full name of the file or folder")
