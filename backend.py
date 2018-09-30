@@ -3,7 +3,7 @@
 # file manager code
 import os
 
-
+#this is a self made file manager. this is solely made on python
 HOME_PATH='/home/import_keshav'
 
 class Root():
