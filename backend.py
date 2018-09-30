@@ -3,7 +3,7 @@
 # file manager code
 import os
 
-#this is a self made file manager. this is solely made on python
+
 HOME_PATH='/home/import_keshav'
 
 class Root():
@@ -36,7 +36,7 @@ class Root2():
 			self.folders=os.listdir(name)
 
 Head=Root()
-
+# code for creating new file
 def new_file_fun():
 
 	print("enter your file name")
