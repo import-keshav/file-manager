@@ -1,11 +1,4 @@
-#prajwal singla
-#chitrank mishra
-# file manager code
-# i have used os module here
 import os
-#hii this is certainly a very good project to work on
-# i had written this code in lucid manner easy to understand
-#jnnml
 HOME_PATH='/home/import_keshav'
 
 class Root():
@@ -38,7 +31,7 @@ class Root2():
 			self.folders=os.listdir(name)
 
 Head=Root()
-# code for creating new file
+
 def new_file_fun():
 
 	print("enter your file name")
@@ -48,7 +41,7 @@ def new_file_fun():
 	Head.folders.append(y)
 	print("your file has succesfully added")
 	return
-# delete function for file deletion
+
 def delete_file_fun():
 
 	print("Enter full name of the file or folder")
