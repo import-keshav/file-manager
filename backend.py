@@ -1,5 +1,5 @@
 import os
-HOME_PATH='/home/import_keshav'
+HOME_PATH= os.getcwd()
 
 class Root():
 	
